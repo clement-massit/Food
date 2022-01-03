@@ -11,8 +11,7 @@
     "Node.js",
     "Express",
     "MongoDB",
-    "Food",
-    "heroku"
+    "Food"
   ],
   "author": "Clément MASSIT",
   "license": "ISC",
