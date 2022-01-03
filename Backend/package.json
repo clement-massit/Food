@@ -1,7 +1,7 @@
 {
-  "name": "todo",
+  "name": "food",
   "version": "1.0.0",
-  "description": "Node.js backend for Todo",
+  "description": "Node.js backend for Food",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,9 +11,9 @@
     "Node.js",
     "Express",
     "MongoDB",
-    "Todo"
+    "Food"
   ],
-  "author": "Marc-Philippe Huget",
+  "author": "Clément MASSIT",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -24,5 +24,8 @@
     "mongoose": "^5.13.11",
     "morgan": "^1.10.0",
     "winston": "^3.3.3"
+  },
+  "engine": {
+    "node": "12.x"
   }
 }
