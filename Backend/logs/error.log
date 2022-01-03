@@ -55,3 +55,4 @@ Mon, 03 Jan 2022 09:25:17 GMT | ERROR  | HTTP 404: ask for:  http://localhost:30
 Mon, 03 Jan 2022 09:25:18 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/food
 Mon, 03 Jan 2022 09:25:18 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/food
 Mon, 03 Jan 2022 09:27:46 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/ws
+Mon, 03 Jan 2022 09:59:24 GMT | ERROR  | HTTP 404: ask for:  http://localhost:3000/burger
